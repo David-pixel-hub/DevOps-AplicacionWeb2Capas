@@ -195,18 +195,10 @@ docker ps
 
 El pipeline CI/CD ahora está completamente operativo. Cualquier `git push` a la rama `main` activará automáticamente el pipeline de Jenkins para construir una nueva imagen Docker y desplegar la aplicación actualizada.
 
----
 
 ### **9. Diagrama de Infraestructura**
-
-```html
 <img src="diagramas/infraestructura.png">
-```
 
----
 
 ### **10. Diagrama de Flujo de Trabajo**
-
-```html
 <img src="diagramas/workflow_proyecto.png">
-```
